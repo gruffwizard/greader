@@ -1,2 +1,5 @@
-# greader
-Github Reader
+#  Github Reader
+
+Extracts data from website and other apis 
+
+
